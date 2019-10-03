@@ -1,7 +1,7 @@
 # Kottans Backend course
 It is a repository for kottans back-end course. https://github.com/kottans/backend
 
-##Git
+## Git
 
 These were really cool courses. I have never used the `git log` command, I preferred to use IDE features to review history. But It is really powerful tool.
 
